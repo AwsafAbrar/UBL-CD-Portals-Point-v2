@@ -84,7 +84,7 @@ img { margin: 0; padding: 0; border: none }
 
 #templatemo_main {
 	width: 800px;
-	height: 639px;
+	height: 649px;
 	overflow: hidden;
 	margin: 0 auto;
 }
@@ -104,14 +104,14 @@ img { margin: 0; padding: 0; border: none }
 	overflow:hidden;
 	width: 7000px;
 	position:relative;
-	height: 639px;
+	height: 649px;
 }
 
 .section {
 	position:relative;
 	float:left;
 	width: 800px;
-	height: 639px;
+	height: 649px;
 	margin-right: 20px;
 }
 
